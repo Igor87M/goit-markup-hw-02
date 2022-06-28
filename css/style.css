@@ -195,6 +195,7 @@ body {
 }
 .text-sample {
     font-size: 16px;
+    color: var(--second-text-color);
 }
 
 /*Hidden headers*/
