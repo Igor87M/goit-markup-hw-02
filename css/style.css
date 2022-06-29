@@ -178,7 +178,6 @@ body {
     line-height: 1.6;
     letter-spacing: 0.03em;
     border: var(--decoration);
-    cursor: pointer;
 }
 
 .secondary:hover,
