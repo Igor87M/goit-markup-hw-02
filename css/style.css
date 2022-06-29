@@ -103,7 +103,6 @@ body {
 /*APPROACH TO THE CLIENT*/
 
 .h3 {
-    color: var(--first-text-color);
     font-weight: var(--f-w-700);
     font-size: 14px;
 }
@@ -133,7 +132,7 @@ body {
 }
 
 
-.team {
+.h3.team {
     font-weight: var(--f-w-500);
     font-size: 16px;
 }
