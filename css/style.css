@@ -51,7 +51,7 @@ body {
     color: var(--link-hover-focus-color);
 }
 
-.list-item {
+.list {
     list-style-type: var(--decoration);
 }
 
@@ -170,7 +170,7 @@ body {
 
 /*PORTFOLIO*/
 
-.btn.secondary {
+.secondary {
     background-color: var(--second-btn-back);
     color: var(--first-text-color);
     font-family: inherit;
